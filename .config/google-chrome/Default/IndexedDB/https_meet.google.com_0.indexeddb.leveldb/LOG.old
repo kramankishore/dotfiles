@@ -1,7 +1,0 @@
-2024/05/17-12:40:24.758 59d Reusing MANIFEST /home/raman/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/17-12:40:24.758 59d Recovering log #3
-2024/05/17-12:40:24.758 59d Reusing old log /home/raman/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
-2024/05/17-13:40:48.439 59e Level-0 table #5: started
-2024/05/17-13:40:48.440 59e Level-0 table #5: 5106 bytes OK
-2024/05/17-13:40:48.442 59e Delete type=0 #3
-2024/05/17-13:40:48.450 59e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

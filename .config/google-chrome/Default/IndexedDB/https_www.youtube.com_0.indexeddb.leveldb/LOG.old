@@ -1,6 +1,0 @@
-2024/05/17-15:09:34.026 59e Reusing MANIFEST /home/raman/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/17-15:09:34.027 59e Recovering log #3
-2024/05/17-15:09:34.032 59e Reusing old log /home/raman/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/05/17-17:51:52.186 59e Level-0 table #5: started
-2024/05/17-17:51:52.206 59e Level-0 table #5: 1249583 bytes OK
-2024/05/17-17:51:52.208 59e Delete type=0 #3
