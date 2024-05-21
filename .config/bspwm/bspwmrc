@@ -1,9 +1,9 @@
-#! /bin/sh
+#!/bin/sh
 
-bspc monitor -d web dev dir txt vid pad mus gfx dis obs
+bspc monitor -d web slack notes todo files web2 code
 
-bspc config border_width			4
-bspc config window_gap				10
+bspc config border_width			1
+bspc config window_gap				1
 
 bspc config split_ratio				0.5
 bspc config single_monocle			false
@@ -27,15 +27,20 @@ bspc rule -a mpv state=floating layer=normal
 bspc rule -a Pavucontrol:pavucontrol state=floating 
 bspc rule -a Lxappearance state=floating layer=normal
 bspc rule -a Galculator state=floating layer=normal
-bspc rule -a Terminator state=floating layer=normal sticky=on 
-bspc rule -a 'GitHub Desktop' desktop='^2' follow=on
-bspc rule -a Gimp desktop='^8' follow=on
-bspc rule -a obs desktop='^10' follow=on
-bspc rule -a discord desktop='^9' follow=on
-bspc rule -a Zettlr  desktop='^6' follow=on
+bspc rule -a Terminator state=floating layer=normal sticky=on
+bspc rule -a notion desktop='^4' follow=on 
+bspc rule -a slack desktop='^2' follow=on
+# bspc rule -a 'GitHub Desktop' desktop='^2' follow=on
+# bspc rule -a Gimp desktop='^8' follow=on
+# bspc rule -a obs desktop='^10' follow=on
+# bspc rule -a discord desktop='^9' follow=on
+# bspc rule -a Zettlr  desktop='^6' follow=on
 
 # bspc rule -a Thunar desktop='^3' follow=on
-bspc rule -a Geany desktop='^4' follow=on
+# bspc rule -a Geany desktop='^4' follow=on
+
+# Network Manager
+ nm-applet --indicator &
 
 dunst &
 picom --config ~/.config/picom/picom.conf &

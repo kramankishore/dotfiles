@@ -1,0 +1,6 @@
+2024/05/17-13:07:16.609 59d Reusing MANIFEST /home/raman/.config/google-chrome/Default/IndexedDB/https_gocomet.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-13:07:16.610 59d Recovering log #3
+2024/05/17-13:07:16.613 59d Reusing old log /home/raman/.config/google-chrome/Default/IndexedDB/https_gocomet.atlassian.net_0.indexeddb.leveldb/000003.log 
+2024/05/17-13:07:29.696 59e Level-0 table #5: started
+2024/05/17-13:07:29.728 59e Level-0 table #5: 1806984 bytes OK
+2024/05/17-13:07:29.730 59e Delete type=0 #3

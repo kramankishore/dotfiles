@@ -1,0 +1,29 @@
+2024/05/21-13:16:04.617 7f3 Reusing MANIFEST /home/raman/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/21-13:16:04.617 7f3 Recovering log #6
+2024/05/21-13:16:04.629 7f3 Reusing old log /home/raman/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000006.log 
+2024/05/21-13:16:06.707 7f4 Level-0 table #12: started
+2024/05/21-13:16:06.731 7f4 Level-0 table #12: 1674954 bytes OK
+2024/05/21-13:16:06.733 7f4 Delete type=0 #6
+2024/05/21-13:16:06.742 7f3 Compacting 1@1 + 2@2 files
+2024/05/21-13:16:06.771 7f3 Generated table #13@1: 3283 keys, 2124182 bytes
+2024/05/21-13:16:06.792 7f3 Generated table #14@1: 5699 keys, 1664866 bytes
+2024/05/21-13:16:06.792 7f3 Compacted 1@1 + 2@2 files => 3789048 bytes
+2024/05/21-13:16:06.793 7f3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/05/21-13:16:06.793 7f3 Delete type=2 #9
+2024/05/21-13:16:06.793 7f3 Delete type=2 #12
+2024/05/21-13:16:06.794 7f3 Delete type=2 #8
+2024/05/21-13:16:06.845 7f3 Level-0 table #16: started
+2024/05/21-13:16:06.867 7f3 Level-0 table #16: 1578801 bytes OK
+2024/05/21-13:16:06.870 7f3 Delete type=0 #11
+2024/05/21-13:16:06.873 7f3 Compacting 1@1 + 2@2 files
+2024/05/21-13:16:06.902 7f3 Generated table #17@1: 8543 keys, 2132608 bytes
+2024/05/21-13:16:06.927 7f3 Generated table #18@1: 2814 keys, 2120796 bytes
+2024/05/21-13:16:06.943 7f3 Generated table #19@1: 6767 keys, 1098062 bytes
+2024/05/21-13:16:06.943 7f3 Compacted 1@1 + 2@2 files => 5351466 bytes
+2024/05/21-13:16:06.944 7f3 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/05/21-13:16:06.944 7f3 Delete type=2 #16
+2024/05/21-13:16:06.944 7f3 Delete type=2 #14
+2024/05/21-13:16:06.944 7f3 Delete type=2 #13
+2024/05/21-13:17:00.960 7f4 Level-0 table #21: started
+2024/05/21-13:17:00.982 7f4 Level-0 table #21: 1704797 bytes OK
+2024/05/21-13:17:00.984 7f4 Delete type=0 #15

@@ -1,0 +1,6 @@
+2024/05/17-18:18:37.641 73e Reusing MANIFEST /home/raman/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/05/17-18:18:37.646 73e Recovering log #12
+2024/05/17-18:18:37.647 73e Reusing old log /home/raman/.config/Slack/Local Storage/leveldb/000012.log 
+2024/05/17-18:19:38.017 73f Level-0 table #16: started
+2024/05/17-18:19:38.019 73f Level-0 table #16: 11260 bytes OK
+2024/05/17-18:19:38.021 73f Delete type=0 #12
