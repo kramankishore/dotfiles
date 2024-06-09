@@ -114,15 +114,21 @@ XF86MonBrightnessDown
 XF86MonBrightnessUp
 	brightnessctl s 5+
 
-#########
-# Scrot #
-#########
-super + @Print
-	flameshot gui
 
+# Lock screen (Betterlockscreen)
+super + l
+	betterlockscreen -l
+XF86ScreenSaver
+	betterlockscreen -l
+
+#########
+# Screenshot #
+#########
+shift + @Print
+	flameshot full -p ~/Screenshots
+	notify-send 'Flameshot' 'Image saved to ~/Screenshots'
 @Print
-	scrot -e 'mv $f ~/Screenshots'; \
-	notify-send 'Scrot' 'Image saved to ~/Screenshots'
+	flameshot gui -p ~/Screenshots
 	
 ## redshift
 super + alt + r
